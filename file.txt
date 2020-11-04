@@ -1,0 +1,7 @@
+this is a session for git
+
+and we will be working on following
+1commit 
+2branch
+3push
+4pull

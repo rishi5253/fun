@@ -6,3 +6,6 @@ and we will be working on following
 3push
 4pull
 5 bash
+6
+7
+8
